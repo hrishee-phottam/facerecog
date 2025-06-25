@@ -1,6 +1,3 @@
-Here's the cleaned-up and unified version of your `README.md` for the `facerecog` project:
-
----
 
 # FaceRecog
 
